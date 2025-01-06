@@ -1,0 +1,1 @@
+say Better recipes datapack loaded
